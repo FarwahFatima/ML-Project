@@ -1,0 +1,1 @@
+# entire project develop inside this, whenever use any other folder this src will also use
