@@ -1,0 +1,1 @@
+# for prediction purpose, model has crreated and if you want to predict iot on new data
