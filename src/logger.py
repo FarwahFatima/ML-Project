@@ -1,4 +1,4 @@
-import logging
+import logging    # tos see the exceptioj in form of text filee or database and seee in visualizee manner, how many error, warnings, critical error coming.
 import os
 from datetime import datetime
 
@@ -15,5 +15,7 @@ logging.basicConfig(
     level= logging.INFO,
 )
 
-if __name__ == "__main__":
-    logging.info('Logging has started')
+
+# checking wheather its it running 
+# if __name__ == "__main__":
+#     logging.info('Logging has started')
